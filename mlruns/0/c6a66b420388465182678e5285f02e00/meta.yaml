@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/Website-to-Dataset-Python/mlruns/0/c6a66b420388465182678e5285f02e00/artifacts
+end_time: 1723904039677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a66b420388465182678e5285f02e00
+run_name: unique-colt-575
+run_uuid: c6a66b420388465182678e5285f02e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723904038365
+status: 4
+tags: []
+user_id: runner

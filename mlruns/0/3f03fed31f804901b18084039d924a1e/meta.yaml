@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/Website-to-Dataset-Python/mlruns/0/3f03fed31f804901b18084039d924a1e/artifacts
+end_time: 1723903326182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f03fed31f804901b18084039d924a1e
+run_name: capricious-boar-968
+run_uuid: 3f03fed31f804901b18084039d924a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723903326156
+status: 4
+tags: []
+user_id: runner

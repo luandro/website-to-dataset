@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/Website-to-Dataset-Python/mlruns/0/b1a91c06c6174f639ead295d651ceef2/artifacts
+end_time: 1723903324934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1a91c06c6174f639ead295d651ceef2
+run_name: gentle-hog-868
+run_uuid: b1a91c06c6174f639ead295d651ceef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723903323477
+status: 4
+tags: []
+user_id: runner
